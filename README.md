@@ -1,6 +1,6 @@
 # Rust CLI Task Manager ✨
 
-A vibey command-line task manager built in Rust with interactive prompts, color coding, and emoji support. Keep track of your tasks with style! 🚀
+A command-line task manager built in Rust with interactive prompts, color coding, and emoji support. Keep track of your tasks with style! 🚀
 
 ## Features
 
